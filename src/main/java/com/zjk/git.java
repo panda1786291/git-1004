@@ -9,5 +9,6 @@ public class git {
         System.out.println("hello hottest01");
         System.out.println("hello hottest01");
         System.out.println("push test");
+        System.out.println("push test2");
     }
 }
